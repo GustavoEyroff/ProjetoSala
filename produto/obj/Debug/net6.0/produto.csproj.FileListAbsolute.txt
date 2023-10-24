@@ -1,0 +1,15 @@
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.csproj.AssemblyReference.cache
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.AssemblyInfoInputs.cache
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.AssemblyInfo.cs
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.eyroff\source\repos\produto\produto\bin\Debug\net6.0\produto.exe
+C:\Users\gustavo.eyroff\source\repos\produto\produto\bin\Debug\net6.0\produto.deps.json
+C:\Users\gustavo.eyroff\source\repos\produto\produto\bin\Debug\net6.0\produto.runtimeconfig.json
+C:\Users\gustavo.eyroff\source\repos\produto\produto\bin\Debug\net6.0\produto.dll
+C:\Users\gustavo.eyroff\source\repos\produto\produto\bin\Debug\net6.0\produto.pdb
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.dll
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\refint\produto.dll
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.pdb
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\produto.genruntimeconfig.cache
+C:\Users\gustavo.eyroff\source\repos\produto\produto\obj\Debug\net6.0\ref\produto.dll
